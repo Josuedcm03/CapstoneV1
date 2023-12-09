@@ -1,0 +1,93 @@
+Especificaciones del proyecto
+Cree un archivo HTML llamado .index.html
+
+Use la declaración al principio del archivo para indicar que se trata de un documento HTML.
+<!DOCTYPE html>
+
+Crea una sección que incluya un elemento con el texto "Mi currículum".headtitle
+
+Dentro de la sección, escribe código HTML para crear un currículum en línea que cubra los siguientes 
+aspectos:body
+
+
+
+
+
+Resumen o declaración de objetivos
+
+Educación (enumere los títulos, las escuelas y las fechas)
+
+Experiencia laboral (enumere los títulos de los puestos, los empleadores, las fechas y las 
+responsabilidades)
+
+Habilidades (enumere las habilidades o áreas de especialización relevantes)
+
+Premios, certificaciones u otros logros (enumere los premios, certificaciones u otros logros relevantes)
+
+Utilice etiquetas HTML adecuadas para dar formato al contenido de cada sección, por ejemplo, 
+para los encabezados de sección o para las listas.h1ulol
+
+Usa etiquetas HTML para agregar una foto de perfil tuya.
+
+Utiliza etiquetas de anclaje relevantes para crear un sitio web de varias páginas, 
+enumerando otros aspectos de tu currículum, como los pasatiempos y los datos de contacto.
+
+Agregue un elemento con su nombre y cualquier información de derechos de autor u otras 
+exenciones de responsabilidad. (Sugerencia: usa los documentos de MDN para cosas que no 
+sabes hacer: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footerfooter
+
+Guarde el archivo y ábralo en un navegador web para asegurarse de que se muestra 
+correctamente.index.html
+
+Agrega tu sitio web a tu GitHub para comenzar a construir tu portafolio.
+
+Publique su sitio web usando las páginas de GitHub y compártalo aquí (en las preguntas y respuestas) 
+con otros estudiantes.
+
+Comentar y hacer sugerencias a los proyectos de otros estudiantes.
+
+
+
+Ejemplo
+https://appbrewery.github.io/capstone-1-example
+
+
+
+Requisitos
+Con el fin de mantener el proyecto dentro del alcance (tiempo, energía, recursos), solo puede usar 
+HTML para completar el proyecto. Incluso si sabes CSS y JS (que suponemos que aún no sabes), se espera
+que solo escribas el sitio web usando HTML.
+
+Imagina que eres un desarrollador profesional que trabaja en este proyecto. Habrá cosas que no sabes, 
+cosas que quieres hacer pero que aún no has aprendido a hacer. Como desarrollador profesional, 
+necesitas conocer los límites de tus habilidades y buscar otras cosas en Google, documentos MDN, 
+Internet.
+
+
+
+Preguntas frecuentes
+1. ¿Puedo utilizar estos proyectos finales en mis entrevistas de trabajo?
+
+¡Sí! Ese es el objetivo de estos proyectos finales. A diferencia de los proyectos de cursos, 
+que tienen código de solución y tutoriales en video, los proyectos finales están destinados
+a ser completamente su "propio trabajo". Hay más de un millón de estudiantes que se 
+han inscrito en este curso de desarrollo web en todo el mundo. Si agregas un proyecto 
+de curso a tu portafolio, es muy probable que tu cliente sepa que es de este curso. 
+Los proyectos finales, por otro lado, no tienen código de solución, ni recorrido, ni 
+especificaciones de diseño. Es puramente tu creación, por lo que definitivamente puede 
+contarse como tu propio trabajo y agregarse a tu portafolio.
+
+Cuando contrato desarrolladores, siempre pido un portafolio. Considero que lo que han 
+construido por sí mismos es mucho más importante que la universidad a la que fueron o 
+si tienen un título en ciencias de la computación. Muchos de mis amigos que son CEOs en 
+multinacionales y startups están de acuerdo.
+
+
+
+2. ¿Qué pasa si no recuerdo cómo hacer algo, a pesar de haber visto todos los videos?
+
+A menudo, ver un video no es suficiente para aprender una habilidad. Es por eso que estos 
+proyectos finales son una gran oportunidad para identificar sus puntos débiles. 
+Mientras construyes, te encontrarás atascado u olvidando cómo hacer las cosas. 
+¡Bien! A continuación, es el momento de revisar las lecciones anteriores o la documentación 
+en línea para llenar sus vacíos de conocimiento.
